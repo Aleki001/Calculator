@@ -1,6 +1,6 @@
 # Calculator
 - The calculator contains simple calc features namely:
-        + -> Addition
+        **+ -> Addition
         - -> Subtraction
         x -> Multiplication
         / -> Division
