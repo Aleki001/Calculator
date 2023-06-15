@@ -1,11 +1,11 @@
 # Calculator
 - The calculator contains simple calc features namely:
-- **+ -> Addition**
-- **- -> Subtraction**
-- **x -> Multiplication**
-- **/ -> Division**
-- **% -> Modulus**
-- **^ -> Power**
+         **+ -> Addition**
+         **- -> Subtraction**
+         **x -> Multiplication**
+         **/ -> Division**
+         **% -> Modulus**
+         **^ -> Power**
 
         
 - It is also developed using C programming language
